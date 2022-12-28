@@ -5,10 +5,18 @@
 	color:#31770a;
 	text-align:center;
 }
-h1{
+h1
+{
 	margin: 0em;
 	font-size: 400%;
 }
+h5
+{
+	font-size:200%;
+}
+h6
+{
+	font-size:150%;
 table
 {
 	margin: auto;

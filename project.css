@@ -1,0 +1,34 @@
+body
+{
+    font-size: 150%;
+	margin: 0px;;
+	font-family:cursive;
+	color:#31770a;
+	text-align:center;
+}
+.head
+{
+    padding:50px;
+    background-color: #d5ffff;
+    color:#1ea8a8;
+}
+hr
+{
+	background-color:none;
+	border:none;
+	border-bottom:dotted 5px;
+	width:5%;
+	color:#dfd7d7;
+}
+.img
+{
+    border:solid 1px;
+    border-color: black;
+    border-radius: 50px;
+    height: 50%;
+    width: 50%;
+}
+h1
+{
+    /*margin: 0px;*/
+}

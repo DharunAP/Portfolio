@@ -27,16 +27,8 @@ td
 {
 	
 	font-family:cursive;
-
+	font-size:170%;
 	color:#1ea8a8;
-}
-h2
-{
-	
-}
-p
-{
-	font-size:25px;
 }
 hr
 {
@@ -69,4 +61,8 @@ h6{
 {
 	height: 50px;
 	width:50px;
+}
+.content
+{
+	font-size:150%;
 }
